@@ -22,7 +22,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task1.V13
             Console.WriteLine("***************************************************************************");
 
             int startValue = 1; int stopValue = 7;
-            double Value = 1.2;
+            double value = 1.2;
 
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
@@ -31,7 +31,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task1.V13
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(Value, startValue, stopValue));
+            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
             Console.ReadKey();
 
         }
