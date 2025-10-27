@@ -9,7 +9,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task2.V26
             Console.Title = "Спринт #3 | Выполнил: Макаров А. Я. | РППБ-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: операторор цикла do-while                                         *");
+            Console.WriteLine("* Тема: оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
             Console.WriteLine("* Выполнил: Макаров А. Я. | РППБ-25-1                                     *");
