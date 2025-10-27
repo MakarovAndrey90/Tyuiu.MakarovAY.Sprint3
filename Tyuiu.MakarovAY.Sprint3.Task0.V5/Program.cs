@@ -6,7 +6,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task0.V5
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнил: Макаров А. Я. | РППБ-25-1";
+            Console.Title = "Спринт #3 | Выполнил: Макаров А. Я. | РППБ-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: операторо цикла for                                               *");
