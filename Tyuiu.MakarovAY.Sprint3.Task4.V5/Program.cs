@@ -33,7 +33,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task4.V5
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Число = " + ds.Calculate(startValue, stopValue));
+            Console.WriteLine("Cумма ряда = " + ds.Calculate(startValue, stopValue));
             Console.ReadKey();
 
         }
