@@ -35,7 +35,7 @@ namespace Tyuiu.MakarovAY.Sprint3.Task5.V20
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Число = " + ds.GetSumSumSeries(x, startValue1, startValue2, stopValue1, stopValue2));
+            Console.WriteLine("Cумма сумм ряда = " + ds.GetSumSumSeries(x, startValue1, startValue2, stopValue1, stopValue2));
             Console.ReadKey();
 
         }
